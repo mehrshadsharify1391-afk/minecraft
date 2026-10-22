@@ -1,0 +1,21 @@
+body{
+    direction: rtl;
+}
+ul{
+    display: flex;
+    justify-items:center;
+    gap: 40px;
+    list-style: none;
+    justify-content: center;
+}
+.tasvir{
+    text-align: center;
+}
+.magaleh div{
+    gap: 50px;
+    margin: 50px 20%;
+    display: flex;
+}
+.magaleh img{
+    width: 300px;
+}
